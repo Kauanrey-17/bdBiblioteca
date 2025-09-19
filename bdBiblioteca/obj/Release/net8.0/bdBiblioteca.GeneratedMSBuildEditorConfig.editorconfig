@@ -1,0 +1,81 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = bdBiblioteca
+build_property.RootNamespace = bdBiblioteca
+build_property.ProjectDir = C:\Users\3bmod\Desktop\bdBiblioteca-20250918T221724Z-1-001\bdBiblioteca\bdBiblioteca\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\3bmod\Desktop\bdBiblioteca-20250918T221724Z-1-001\bdBiblioteca\bdBiblioteca
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/3bmod/Desktop/bdBiblioteca-20250918T221724Z-1-001/bdBiblioteca/bdBiblioteca/Views/Autor/CriarAutor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b3JcQ3JpYXJBdXRvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/3bmod/Desktop/bdBiblioteca-20250918T221724Z-1-001/bdBiblioteca/bdBiblioteca/Views/Autor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b3JcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/3bmod/Desktop/bdBiblioteca-20250918T221724Z-1-001/bdBiblioteca/bdBiblioteca/Views/Editora/CriarEditora.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWRpdG9yYVxDcmlhckVkaXRvcmEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/3bmod/Desktop/bdBiblioteca-20250918T221724Z-1-001/bdBiblioteca/bdBiblioteca/Views/Editora/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWRpdG9yYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/3bmod/Desktop/bdBiblioteca-20250918T221724Z-1-001/bdBiblioteca/bdBiblioteca/Views/Genero/CriarGenero.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJvXENyaWFyR2VuZXJvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/3bmod/Desktop/bdBiblioteca-20250918T221724Z-1-001/bdBiblioteca/bdBiblioteca/Views/Genero/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/3bmod/Desktop/bdBiblioteca-20250918T221724Z-1-001/bdBiblioteca/bdBiblioteca/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/3bmod/Desktop/bdBiblioteca-20250918T221724Z-1-001/bdBiblioteca/bdBiblioteca/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/3bmod/Desktop/bdBiblioteca-20250918T221724Z-1-001/bdBiblioteca/bdBiblioteca/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/3bmod/Desktop/bdBiblioteca-20250918T221724Z-1-001/bdBiblioteca/bdBiblioteca/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/3bmod/Desktop/bdBiblioteca-20250918T221724Z-1-001/bdBiblioteca/bdBiblioteca/Views/Usuarios/CriarUsuario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQ3JpYXJVc3VhcmlvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/3bmod/Desktop/bdBiblioteca-20250918T221724Z-1-001/bdBiblioteca/bdBiblioteca/Views/Usuarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/3bmod/Desktop/bdBiblioteca-20250918T221724Z-1-001/bdBiblioteca/bdBiblioteca/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/3bmod/Desktop/bdBiblioteca-20250918T221724Z-1-001/bdBiblioteca/bdBiblioteca/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/3bmod/Desktop/bdBiblioteca-20250918T221724Z-1-001/bdBiblioteca/bdBiblioteca/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-9kji6n7i0m
