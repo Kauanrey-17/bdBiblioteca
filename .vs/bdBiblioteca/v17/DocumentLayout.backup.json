@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\3bmod\\Desktop\\bdBiblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8DA23FB-930D-4854-A589-A79A921F95BF}|bdBiblioteca\\bdBiblioteca.csproj|c:\\users\\3bmod\\desktop\\bdbiblioteca\\bdbiblioteca\\autenticacao\\sessionauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8DA23FB-930D-4854-A589-A79A921F95BF}|bdBiblioteca\\bdBiblioteca.csproj|solutionrelative:bdbiblioteca\\autenticacao\\sessionauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8DA23FB-930D-4854-A589-A79A921F95BF}|bdBiblioteca\\bdBiblioteca.csproj|c:\\users\\3bmod\\desktop\\bdbiblioteca\\bdbiblioteca\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8DA23FB-930D-4854-A589-A79A921F95BF}|bdBiblioteca\\bdBiblioteca.csproj|solutionrelative:bdbiblioteca\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8DA23FB-930D-4854-A589-A79A921F95BF}|bdBiblioteca\\bdBiblioteca.csproj|c:\\users\\3bmod\\desktop\\bdbiblioteca\\bdbiblioteca\\autenticacao\\sessionkeys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8DA23FB-930D-4854-A589-A79A921F95BF}|bdBiblioteca\\bdBiblioteca.csproj|solutionrelative:bdbiblioteca\\autenticacao\\sessionkeys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8DA23FB-930D-4854-A589-A79A921F95BF}|bdBiblioteca\\bdBiblioteca.csproj|c:\\users\\3bmod\\desktop\\bdbiblioteca\\bdbiblioteca\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8DA23FB-930D-4854-A589-A79A921F95BF}|bdBiblioteca\\bdBiblioteca.csproj|solutionrelative:bdbiblioteca\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8DA23FB-930D-4854-A589-A79A921F95BF}|bdBiblioteca\\bdBiblioteca.csproj|c:\\users\\3bmod\\desktop\\bdbiblioteca\\bdbiblioteca\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8DA23FB-930D-4854-A589-A79A921F95BF}|bdBiblioteca\\bdBiblioteca.csproj|solutionrelative:bdbiblioteca\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8DA23FB-930D-4854-A589-A79A921F95BF}|bdBiblioteca\\bdBiblioteca.csproj|c:\\users\\3bmod\\desktop\\bdbiblioteca\\bdbiblioteca\\views\\usuarios\\criarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8DA23FB-930D-4854-A589-A79A921F95BF}|bdBiblioteca\\bdBiblioteca.csproj|solutionrelative:bdbiblioteca\\views\\usuarios\\criarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8DA23FB-930D-4854-A589-A79A921F95BF}|bdBiblioteca\\bdBiblioteca.csproj|c:\\users\\3bmod\\desktop\\bdbiblioteca\\bdbiblioteca\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8DA23FB-930D-4854-A589-A79A921F95BF}|bdBiblioteca\\bdBiblioteca.csproj|solutionrelative:bdbiblioteca\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8DA23FB-930D-4854-A589-A79A921F95BF}|bdBiblioteca\\bdBiblioteca.csproj|c:\\users\\3bmod\\desktop\\bdbiblioteca\\bdbiblioteca\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8DA23FB-930D-4854-A589-A79A921F95BF}|bdBiblioteca\\bdBiblioteca.csproj|solutionrelative:bdbiblioteca\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8DA23FB-930D-4854-A589-A79A921F95BF}|bdBiblioteca\\bdBiblioteca.csproj|c:\\users\\3bmod\\desktop\\bdbiblioteca\\bdbiblioteca\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8DA23FB-930D-4854-A589-A79A921F95BF}|bdBiblioteca\\bdBiblioteca.csproj|solutionrelative:bdbiblioteca\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8DA23FB-930D-4854-A589-A79A921F95BF}|bdBiblioteca\\bdBiblioteca.csproj|c:\\users\\3bmod\\desktop\\bdbiblioteca\\bdbiblioteca\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D8DA23FB-930D-4854-A589-A79A921F95BF}|bdBiblioteca\\bdBiblioteca.csproj|solutionrelative:bdbiblioteca\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8DA23FB-930D-4854-A589-A79A921F95BF}|bdBiblioteca\\bdBiblioteca.csproj|c:\\users\\3bmod\\desktop\\bdbiblioteca\\bdbiblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8DA23FB-930D-4854-A589-A79A921F95BF}|bdBiblioteca\\bdBiblioteca.csproj|solutionrelative:bdbiblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8DA23FB-930D-4854-A589-A79A921F95BF}|bdBiblioteca\\bdBiblioteca.csproj|c:\\users\\3bmod\\desktop\\bdbiblioteca\\bdbiblioteca\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8DA23FB-930D-4854-A589-A79A921F95BF}|bdBiblioteca\\bdBiblioteca.csproj|solutionrelative:bdbiblioteca\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8DA23FB-930D-4854-A589-A79A921F95BF}|bdBiblioteca\\bdBiblioteca.csproj|c:\\users\\3bmod\\desktop\\bdbiblioteca\\bdbiblioteca\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8DA23FB-930D-4854-A589-A79A921F95BF}|bdBiblioteca\\bdBiblioteca.csproj|solutionrelative:bdbiblioteca\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8DA23FB-930D-4854-A589-A79A921F95BF}|bdBiblioteca\\bdBiblioteca.csproj|c:\\users\\3bmod\\desktop\\bdbiblioteca\\bdbiblioteca\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8DA23FB-930D-4854-A589-A79A921F95BF}|bdBiblioteca\\bdBiblioteca.csproj|solutionrelative:bdbiblioteca\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8DA23FB-930D-4854-A589-A79A921F95BF}|bdBiblioteca\\bdBiblioteca.csproj|c:\\users\\3bmod\\desktop\\bdbiblioteca\\bdbiblioteca\\models\\livros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8DA23FB-930D-4854-A589-A79A921F95BF}|bdBiblioteca\\bdBiblioteca.csproj|solutionrelative:bdbiblioteca\\models\\livros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8DA23FB-930D-4854-A589-A79A921F95BF}|bdBiblioteca\\bdBiblioteca.csproj|c:\\users\\3bmod\\desktop\\bdbiblioteca\\bdbiblioteca\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8DA23FB-930D-4854-A589-A79A921F95BF}|bdBiblioteca\\bdBiblioteca.csproj|solutionrelative:bdbiblioteca\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8DA23FB-930D-4854-A589-A79A921F95BF}|bdBiblioteca\\bdBiblioteca.csproj|c:\\users\\3bmod\\desktop\\bdbiblioteca\\bdbiblioteca\\views\\livro\\editarlivro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8DA23FB-930D-4854-A589-A79A921F95BF}|bdBiblioteca\\bdBiblioteca.csproj|solutionrelative:bdbiblioteca\\views\\livro\\editarlivro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8DA23FB-930D-4854-A589-A79A921F95BF}|bdBiblioteca\\bdBiblioteca.csproj|c:\\users\\3bmod\\desktop\\bdbiblioteca\\bdbiblioteca\\views\\livro\\criarlivros.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8DA23FB-930D-4854-A589-A79A921F95BF}|bdBiblioteca\\bdBiblioteca.csproj|solutionrelative:bdbiblioteca\\views\\livro\\criarlivros.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8DA23FB-930D-4854-A589-A79A921F95BF}|bdBiblioteca\\bdBiblioteca.csproj|c:\\users\\3bmod\\desktop\\bdbiblioteca\\bdbiblioteca\\views\\livro\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8DA23FB-930D-4854-A589-A79A921F95BF}|bdBiblioteca\\bdBiblioteca.csproj|solutionrelative:bdbiblioteca\\views\\livro\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\3bmod\\Desktop\\bdBiblioteca\\bdBiblioteca\\Models\\Usuarios.cs",
+              "RelativeDocumentMoniker": "bdBiblioteca\\Models\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\3bmod\\Desktop\\bdBiblioteca\\bdBiblioteca\\Models\\Usuarios.cs",
+              "RelativeToolTip": "bdBiblioteca\\Models\\Usuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T22:54:11.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\3bmod\\Desktop\\bdBiblioteca\\bdBiblioteca\\Views\\Usuarios\\Index.cshtml",
+              "RelativeDocumentMoniker": "bdBiblioteca\\Views\\Usuarios\\Index.cshtml",
+              "ToolTip": "C:\\Users\\3bmod\\Desktop\\bdBiblioteca\\bdBiblioteca\\Views\\Usuarios\\Index.cshtml",
+              "RelativeToolTip": "bdBiblioteca\\Views\\Usuarios\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T22:44:33.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CriarUsuario.cshtml",
+              "DocumentMoniker": "C:\\Users\\3bmod\\Desktop\\bdBiblioteca\\bdBiblioteca\\Views\\Usuarios\\CriarUsuario.cshtml",
+              "RelativeDocumentMoniker": "bdBiblioteca\\Views\\Usuarios\\CriarUsuario.cshtml",
+              "ToolTip": "C:\\Users\\3bmod\\Desktop\\bdBiblioteca\\bdBiblioteca\\Views\\Usuarios\\CriarUsuario.cshtml",
+              "RelativeToolTip": "bdBiblioteca\\Views\\Usuarios\\CriarUsuario.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAswCoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T22:44:34.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\3bmod\\Desktop\\bdBiblioteca\\bdBiblioteca\\Data\\Database.cs",
+              "RelativeDocumentMoniker": "bdBiblioteca\\Data\\Database.cs",
+              "ToolTip": "C:\\Users\\3bmod\\Desktop\\bdBiblioteca\\bdBiblioteca\\Data\\Database.cs",
+              "RelativeToolTip": "bdBiblioteca\\Data\\Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T22:43:33.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\3bmod\\Desktop\\bdBiblioteca\\bdBiblioteca\\appsettings.json",
+              "RelativeDocumentMoniker": "bdBiblioteca\\appsettings.json",
+              "ToolTip": "C:\\Users\\3bmod\\Desktop\\bdBiblioteca\\bdBiblioteca\\appsettings.json",
+              "RelativeToolTip": "bdBiblioteca\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-19T22:43:13.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\3bmod\\Desktop\\bdBiblioteca\\bdBiblioteca\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "bdBiblioteca\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\3bmod\\Desktop\\bdBiblioteca\\bdBiblioteca\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "bdBiblioteca\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T22:41:14.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\3bmod\\Desktop\\bdBiblioteca\\bdBiblioteca\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "bdBiblioteca\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\3bmod\\Desktop\\bdBiblioteca\\bdBiblioteca\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "bdBiblioteca\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAkwFEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T22:40:19.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\3bmod\\Desktop\\bdBiblioteca\\bdBiblioteca\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "bdBiblioteca\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\3bmod\\Desktop\\bdBiblioteca\\bdBiblioteca\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "bdBiblioteca\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAuwFIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T00:48:39.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\3bmod\\Desktop\\bdBiblioteca\\bdBiblioteca\\Program.cs",
+              "RelativeDocumentMoniker": "bdBiblioteca\\Program.cs",
+              "ToolTip": "C:\\Users\\3bmod\\Desktop\\bdBiblioteca\\bdBiblioteca\\Program.cs",
+              "RelativeToolTip": "bdBiblioteca\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T00:44:04.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SessionKeys.cs",
+              "DocumentMoniker": "C:\\Users\\3bmod\\Desktop\\bdBiblioteca\\bdBiblioteca\\Autenticacao\\SessionKeys.cs",
+              "RelativeDocumentMoniker": "bdBiblioteca\\Autenticacao\\SessionKeys.cs",
+              "ToolTip": "C:\\Users\\3bmod\\Desktop\\bdBiblioteca\\bdBiblioteca\\Autenticacao\\SessionKeys.cs",
+              "RelativeToolTip": "bdBiblioteca\\Autenticacao\\SessionKeys.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T00:40:40.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SessionAuthorizeAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\3bmod\\Desktop\\bdBiblioteca\\bdBiblioteca\\Autenticacao\\SessionAuthorizeAttribute.cs",
+              "RelativeDocumentMoniker": "bdBiblioteca\\Autenticacao\\SessionAuthorizeAttribute.cs",
+              "ToolTip": "C:\\Users\\3bmod\\Desktop\\bdBiblioteca\\bdBiblioteca\\Autenticacao\\SessionAuthorizeAttribute.cs",
+              "RelativeToolTip": "bdBiblioteca\\Autenticacao\\SessionAuthorizeAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T00:40:27.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\3bmod\\Desktop\\bdBiblioteca\\bdBiblioteca\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "bdBiblioteca\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\3bmod\\Desktop\\bdBiblioteca\\bdBiblioteca\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "bdBiblioteca\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T00:37:57.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EditarLivro.cshtml",
+              "DocumentMoniker": "C:\\Users\\3bmod\\Desktop\\bdBiblioteca\\bdBiblioteca\\Views\\Livro\\EditarLivro.cshtml",
+              "RelativeDocumentMoniker": "bdBiblioteca\\Views\\Livro\\EditarLivro.cshtml",
+              "ToolTip": "C:\\Users\\3bmod\\Desktop\\bdBiblioteca\\bdBiblioteca\\Views\\Livro\\EditarLivro.cshtml",
+              "RelativeToolTip": "bdBiblioteca\\Views\\Livro\\EditarLivro.cshtml",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAgwJYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T00:35:12.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CriarLivros.cshtml",
+              "DocumentMoniker": "C:\\Users\\3bmod\\Desktop\\bdBiblioteca\\bdBiblioteca\\Views\\Livro\\CriarLivros.cshtml",
+              "RelativeDocumentMoniker": "bdBiblioteca\\Views\\Livro\\CriarLivros.cshtml",
+              "ToolTip": "C:\\Users\\3bmod\\Desktop\\bdBiblioteca\\bdBiblioteca\\Views\\Livro\\CriarLivros.cshtml",
+              "RelativeToolTip": "bdBiblioteca\\Views\\Livro\\CriarLivros.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T22:44:02.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\3bmod\\Desktop\\bdBiblioteca\\bdBiblioteca\\Views\\Livro\\Index.cshtml",
+              "RelativeDocumentMoniker": "bdBiblioteca\\Views\\Livro\\Index.cshtml",
+              "ToolTip": "C:\\Users\\3bmod\\Desktop\\bdBiblioteca\\bdBiblioteca\\Views\\Livro\\Index.cshtml",
+              "RelativeToolTip": "bdBiblioteca\\Views\\Livro\\Index.cshtml",
+              "ViewState": "AgIAAOEAAAAAAAAAAAAgwBMBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T22:43:18.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\3bmod\\Desktop\\bdBiblioteca\\bdBiblioteca\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "bdBiblioteca\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\3bmod\\Desktop\\bdBiblioteca\\bdBiblioteca\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "bdBiblioteca\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T22:28:53.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AutorController.cs",
+              "DocumentMoniker": "C:\\Users\\3bmod\\Desktop\\bdBiblioteca\\bdBiblioteca\\Controllers\\AutorController.cs",
+              "RelativeDocumentMoniker": "bdBiblioteca\\Controllers\\AutorController.cs",
+              "ToolTip": "C:\\Users\\3bmod\\Desktop\\bdBiblioteca\\bdBiblioteca\\Controllers\\AutorController.cs",
+              "RelativeToolTip": "bdBiblioteca\\Controllers\\AutorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T01:17:04.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LivroController.cs",
+              "DocumentMoniker": "C:\\Users\\3bmod\\Desktop\\bdBiblioteca\\bdBiblioteca\\Controllers\\LivroController.cs",
+              "RelativeDocumentMoniker": "bdBiblioteca\\Controllers\\LivroController.cs",
+              "ToolTip": "C:\\Users\\3bmod\\Desktop\\bdBiblioteca\\bdBiblioteca\\Controllers\\LivroController.cs",
+              "RelativeToolTip": "bdBiblioteca\\Controllers\\LivroController.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAYwLUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T01:16:56.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Livros.cs",
+              "DocumentMoniker": "C:\\Users\\3bmod\\Desktop\\bdBiblioteca\\bdBiblioteca\\Models\\Livros.cs",
+              "RelativeDocumentMoniker": "bdBiblioteca\\Models\\Livros.cs",
+              "ToolTip": "C:\\Users\\3bmod\\Desktop\\bdBiblioteca\\bdBiblioteca\\Models\\Livros.cs",
+              "RelativeToolTip": "bdBiblioteca\\Models\\Livros.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA6wA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T01:14:01.562Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
