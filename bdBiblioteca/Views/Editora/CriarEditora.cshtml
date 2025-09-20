@@ -1,0 +1,20 @@
+﻿@model bdBiblioteca.Models.Editora
+
+<h2>Cadastrar Editora</h2>
+
+<form asp-action="CriarEditora" method="post">
+
+    @Html.AntiForgeryToken()
+
+    <div>
+
+        <label>Nome</label>
+
+        <input asp-for="nome" required />
+
+    </div>
+
+
+    <button type="submit">Salvar</button>
+
+</form>

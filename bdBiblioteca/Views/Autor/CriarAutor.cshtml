@@ -1,0 +1,20 @@
+﻿@model bdBiblioteca.Models.Autor
+
+<h2>Cadastrar Autor</h2>
+
+<form asp-action="CriarAutor" method="post">
+
+    @Html.AntiForgeryToken()
+
+    <div>
+
+        <label>Nome</label>
+
+        <input asp-for="nome" required />
+
+    </div>
+
+
+    <button type="submit">Salvar</button>
+
+</form>
